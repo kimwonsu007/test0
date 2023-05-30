@@ -23,5 +23,9 @@
 		<h3>TEST000 - EX1</h3>
 		<pre>EX</pre>
 	</div>
+		<div class="container panel panel-info">
+		<h3>TEST000 - EX2</h3>
+		<pre>EX2</pre>
+	</div>
 </body>
 </html>
