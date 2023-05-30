@@ -17,6 +17,7 @@
 <body>
 <div class="container panel panel-info">
 	<h3>기능개발 - join</h3>
+	<pre>ex</pre>
 
 </div>
 </body>
