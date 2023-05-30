@@ -21,6 +21,7 @@
 	</div>
 	<div class="container panel panel-info">
 		<h3>TEST000 - EX1</h3>
+		<pre>EX</pre>
 	</div>
 </body>
 </html>
