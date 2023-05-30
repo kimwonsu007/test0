@@ -19,5 +19,8 @@
 		<h3>TEST000 - update1</h3>
 		<pre>test2</pre>
 	</div>
+	<div class="container panel panel-info">
+		<h3>TEST000 - EX</h3>
+	</div>
 </body>
 </html>
