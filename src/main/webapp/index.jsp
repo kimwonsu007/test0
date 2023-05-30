@@ -20,7 +20,7 @@
 		<pre>test2</pre>
 	</div>
 	<div class="container panel panel-info">
-		<h3>TEST000 - EX</h3>
+		<h3>TEST000 - EX1</h3>
 	</div>
 </body>
 </html>
