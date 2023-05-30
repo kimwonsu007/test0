@@ -16,7 +16,7 @@
 </head>
 <body>
 <div class="container panel panel-info">
-	<h3>기능개발</h3>
+	<h3>기능개발 - join</h3>
 
 </div>
 </body>
