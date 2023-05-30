@@ -15,12 +15,9 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<div class="container panel panel-info">
-		<h3>TEST000 - update1</h3>
-		<pre>test2</pre>
-	</div>
-	<div class="container panel panel-info">
-		<h3>TEST000 - EX1</h3>
-	</div>
+<div class="container panel panel-info">
+	<h3>login - 1</h3>
+
+</div>
 </body>
 </html>
